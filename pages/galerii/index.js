@@ -1,4 +1,4 @@
-import Layout from '../components/layout/gallery'
+import Layout from '../../components/layout/gallery/gallery'
 
 export default () => (
   <Layout>
