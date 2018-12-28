@@ -23,11 +23,12 @@ export default () => (
       </section>
 
       <section>
-        Map Section
+        Map Display Section
       </section>
+
       <section>
-        <h1>Kontakt</h1>
         <div>
+          <h1>Kontakt</h1>
           <div>
             <h2>Üldmeil</h2>
               <p>{contactData.email}</p>
@@ -37,16 +38,16 @@ export default () => (
               {contactData.phones.socialWorkers.map((item, index) =>
                 (<p key={index}>{item}</p>))
               }
-          </div>
-          <div>
             <h2>Tugiisikud</h2>
-            {contactData.phones.supportPersons.map((item, index) =>
-              (<p key={index}>{item}</p>))
-            }
+              {contactData.phones.supportPersons.map((item, index) =>
+                (<p key={index}>{item}</p>))
+              }
           </div>
         </div>
 
         <div>
+          <h2>Asukoht</h2>
+          <p>{contactData.location}</p>
         </div>
       </section>
     </main>
