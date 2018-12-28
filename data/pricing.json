@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Tugiisikuteenus",
+    "description": "Siin on tugiisikuteenuse lühikirjeldus. Siin on natuke lisaks teksti.",
+    "price": "264€/h"
+  },
+  {
+    "name": "Teine teenus",
+    "description": "Siin on teise teenuse lühikirjeldus.",
+    "price": "417€/h"
+  },
+  {
+    "name": "Kolmas teenus",
+    "description": "Midagi kolmanda teenuse kohta.",
+    "price": "15€/h"
+  },
+  {
+    "name": "Neljanda teenuse nimetus",
+    "description": "Täitev tekst hüpoteetilise neljanda teenuse kohta.",
+    "price": "38€/h"
+  },
+  {
+    "name": "Viimane teenus nimekirjas",
+    "description": "Siin on midagi viimase teenuse kohta.",
+    "price": "61€/h"
+  }
+]
