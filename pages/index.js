@@ -92,7 +92,7 @@ export default () => (
               <p>{contactData.email}</p>
             <h2>Juhataja</h2>
               <h3>Viktor Karhu</h3>
-              <p>(+372) 736 1520</p>
+              <p>{contactData.phones.director}</p>
             <h2>Sotsiaaltöötajad</h2>
               {contactData.phones.socialWorkers.map((item, index) =>
                 (<p key={index}>{item}</p>))
@@ -106,7 +106,11 @@ export default () => (
               (<p key={index}>{item}</p>))
             }
           <h2>Asukoht</h2>
-            <p>{contactData.location}</p>
+            <p>
+              <a href={contactData.locationURL}>
+                {contactData.location}
+              </a>
+            </p>
         </div>
       </section>
 
@@ -131,7 +135,7 @@ export default () => (
         .map {
           grid-area: map;
           grid-row: 2;
-          height: 70vh;
+          height: 80vh;
           width: 100%;
         }
 
