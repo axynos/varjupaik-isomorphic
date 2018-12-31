@@ -52,4 +52,12 @@ export default css.global`
 
     margin-bottom: 1.75vh;
   }
+
+  a {
+    color: #00ACFF;
+  }
+
+  a:visited {
+    color: #5516cc;
+  }
 `
