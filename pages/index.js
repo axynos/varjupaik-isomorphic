@@ -13,7 +13,7 @@ export default () => (
       <style jsx>{`
         header {
           min-height: 400px;
-          height: 60vh;
+          height: 70vh;
           width: 100%;
 
           background-image: url('/static/images/varjupaik-18-large.jpg');
@@ -23,9 +23,15 @@ export default () => (
           clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 75%);
 
           display: grid;
-          grid-template-columns: 0.25fr 1fr 0.25fr;
+          grid-template-columns: 1fr 2.5fr 1fr;
           grid-template-rows: 1fr;
           grid-template-areas: ". . .";
+        }
+
+        @media all and (max-width:31.25em) {
+          header {
+            grid-template-columns: 1fr 10fr 1fr;
+          }
         }
 
         .title {
@@ -74,7 +80,7 @@ export default () => (
 
       <section className='contact'>
         <h1 className='title'>Kontakt</h1>
-        <div>
+        <div className='col-1'>
           <div>
             <h2>Üldmeil</h2>
               <p>{contactData.email}</p>
@@ -88,7 +94,7 @@ export default () => (
           </div>
         </div>
 
-        <div>
+        <div className='col-2'>
           <h2>Tugiisikud</h2>
             {contactData.phones.supportPersons.map((item, index) =>
               (<p key={index}>{item}</p>))
@@ -101,9 +107,15 @@ export default () => (
       <style jsx>{`
         main {
           display: grid;
-          grid-template-columns: 0.25fr 1fr 0.25fr;
+          grid-template-columns: 1fr 2.5fr 1fr;
           grid-template-rows: 3fr;
           grid-template-areas: ". . .";
+        }
+
+        @media all and (max-width:31.25em) {
+          main {
+            grid-template-columns: 1fr 10fr 1fr;
+          }
         }
 
         .jumbotron {
@@ -130,6 +142,12 @@ export default () => (
 
         .contact p {
           text-align: left;
+        }
+
+        @media all and (max-width:31.25em) {
+          .col-2 {
+            grid-column: 1;
+          }
         }
 
         section {
