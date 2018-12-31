@@ -1,4 +1,5 @@
 import Layout from '../components/layout/default'
+import Map from '../components/map'
 import Link from 'next/link'
 
 import contactData from '../data/contacts.json'
@@ -75,7 +76,12 @@ export default () => (
       </section>
 
       <section className='map'>
-        Map Display Section
+        <Map
+          lat={58.393301}
+          lng={26.722904}
+          zoom={18}
+          showMarker
+        />
       </section>
 
       <section className='contact'>
@@ -109,7 +115,7 @@ export default () => (
           display: grid;
           grid-template-columns: 1fr 2.5fr 1fr;
           grid-template-rows: 3fr;
-          grid-template-areas: ". . .";
+          grid-template-areas: ". . ." "map map map" ". . .";
         }
 
         @media all and (max-width:31.25em) {
@@ -123,7 +129,10 @@ export default () => (
         }
 
         .map {
+          grid-area: map;
           grid-row: 2;
+          height: 70vh;
+          width: 100%;
         }
 
         .contact {
