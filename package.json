@@ -20,5 +20,8 @@
     "react-dom": "^16.7.0",
     "react-google-maps": "^9.4.5",
     "recompose": "^0.30.0"
+  },
+  "devDependencies": {
+    "@zeit/next-mdx": "^1.2.0"
   }
 }
