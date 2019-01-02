@@ -7,6 +7,6 @@ export default ({children, title='Varjupaik | Galerii', description}) => (
   <Base>
     <Navigation />
       {children}
-    <Footer />
+    <Footer/>
   </Base>
 )
