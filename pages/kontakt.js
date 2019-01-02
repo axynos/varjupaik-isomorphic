@@ -37,6 +37,7 @@ export default () => (
       <style jsx>{`
         main {
           padding-top: 3.5vh;
+          padding-bottom: 7vh;
 
           display: grid;
           grid-template-columns: 1fr 2.5fr 1fr;

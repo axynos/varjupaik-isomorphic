@@ -19,6 +19,9 @@ const Services = () => (
           grid-template-columns: 1fr 2.5fr 1fr;
           grid-template-rows: 1fr;
           grid-template-areas: ". . .";
+
+          padding-top: 3.5vh;
+          padding-bottom: 7vh;
         }
 
         section {
