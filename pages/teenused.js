@@ -1,16 +1,38 @@
 import Layout from '../components/layout/default'
+import Heading from '../components/markdown/teenused/teenused.md'
 import Table from '../components/teenused/table'
-import Service from '../components/teenused/service'
+import ServiceList from '../components/teenused/services'
 
-export default () => (
+const Services = () => (
   <Layout>
-    <h1>Teenused</h1>
-    <p>Siin on meie teenuste nimekiri, allpool on saadaval teenuste pikemad
-      kirjeldused ning tingimused.
-    </p>
+    <main>
+      <section key={1}>
+        <Heading />
+        <Table />
+      </section>
+      <section key={2}>
+        <ServiceList />
+      </section>
+      <style jsx>{`
+        main {
+          display: grid;
+          grid-template-columns: 1fr 2.5fr 1fr;
+          grid-template-rows: 1fr;
+          grid-template-areas: ". . .";
+        }
 
-    <Table />
-    <Service />
+        section {
+          grid-column: 2;
+        }
 
+        @media all and (max-width:60em) {
+          main {
+            grid-template-columns: 1fr 10fr 1fr;
+          }
+        }
+      `}</style>
+    </main>
   </Layout>
 )
+
+export default Services
