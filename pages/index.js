@@ -17,7 +17,7 @@ export default () => (
           height: 70vh;
           width: 100%;
 
-          background-image: url('/static/images/varjupaik-18-large.jpg');
+          background-image: url('/static/images/large/varjupaik-18.jpg');
           background-size: cover;
           background-position: center;
 
