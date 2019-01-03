@@ -36,7 +36,7 @@ export default () => (
       </section>
       <style jsx>{`
         main {
-          padding-top: 3.5vh;
+          padding-top: 5vh;
           padding-bottom: 7vh;
 
           display: grid;

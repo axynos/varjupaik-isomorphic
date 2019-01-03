@@ -7,7 +7,7 @@ import React from 'react'
 
 const styles = css`
   nav {
-    position: absolute;
+    position: relative;
     width: 100%;
     z-index: 1;
 
