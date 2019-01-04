@@ -4,9 +4,9 @@
     "title": "Koridor",
     "description": "Siin on koridor....",
     "sourceSet": {
-      "small": "https://images.unsplash.com/photo-1507216118330-f0ffd2fd2dc1",
-      "medium": "https://images.unsplash.com/photo-1507216118330-f0ffd2fd2dc1",
-      "large": "https://images.unsplash.com/photo-1507216118330-f0ffd2fd2dc1"
+      "small": "small/varjupaik-1.jpg",
+      "medium": "medium/varjupaik-1.jpg",
+      "large": "large/varjupaik-1.jpg"
     }
   },
   {
@@ -14,9 +14,9 @@
     "title": "Maaling",
     "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
     "sourceSet": {
-      "small": "https://images.unsplash.com/photo-1534566779744-92dccf47d230",
-      "medium": "https://images.unsplash.com/photo-1534566779744-92dccf47d230",
-      "large": "https://images.unsplash.com/photo-1534566779744-92dccf47d230"
+      "small": "small/varjupaik-2.jpg",
+      "medium": "medium/varjupaik-2.jpg",
+      "large": "large/varjupaik-2.jpg"
     }
   },
   {
@@ -24,9 +24,9 @@
     "title": "Täitev pealkiri",
     "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
     "sourceSet": {
-      "small": "https://images.unsplash.com/photo-1534580191129-9ebda97a6a30",
-      "medium": "https://images.unsplash.com/photo-1534580191129-9ebda97a6a30",
-      "large": "https://images.unsplash.com/photo-1534580191129-9ebda97a6a30"
+      "small": "small/varjupaik-3.jpg",
+      "medium": "medium/varjupaik-3.jpg",
+      "large": "large/varjupaik-3.jpg"
     }
   },
   {
@@ -34,9 +34,9 @@
     "title": "Täitev pealkiri",
     "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
     "sourceSet": {
-      "small": "https://images.unsplash.com/photo-1534531835045-dac73bb24d14",
-      "medium": "https://images.unsplash.com/photo-1534531835045-dac73bb24d14",
-      "large": "https://images.unsplash.com/photo-1534531835045-dac73bb24d14"
+      "small": "small/varjupaik-4.jpg",
+      "medium": "medium/varjupaik-4.jpg",
+      "large": "large/varjupaik-4.jpg"
     }
   },
   {
@@ -44,9 +44,9 @@
     "title": "Täitev pealkiri",
     "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
     "sourceSet": {
-      "small": "https://images.unsplash.com/photo-1534525208526-827aa7bf5499",
-      "medium": "https://images.unsplash.com/photo-1534525208526-827aa7bf5499",
-      "large": "https://images.unsplash.com/photo-1534525208526-827aa7bf5499"
+      "small": "small/varjupaik-5.jpg",
+      "medium": "medium/varjupaik-5.jpg",
+      "large": "large/varjupaik-5.jpg"
     }
   },
   {
@@ -54,9 +54,9 @@
     "title": "Täitev pealkiri",
     "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
     "sourceSet": {
-      "small": "https://images.unsplash.com/photo-1534535674105-40d57109f1f6",
-      "medium": "https://images.unsplash.com/photo-1534535674105-40d57109f1f6",
-      "large": "https://images.unsplash.com/photo-1534535674105-40d57109f1f6"
+      "small": "small/varjupaik-7.jpg",
+      "medium": "medium/varjupaik-7.jpg",
+      "large": "large/varjupaik-7.jpg"
     }
   },
   {
@@ -64,9 +64,9 @@
     "title": "Täitev pealkiri",
     "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
     "sourceSet": {
-      "small": "https://images.unsplash.com/photo-1534492013828-ee529e810d68",
-      "medium": "https://images.unsplash.com/photo-1534492013828-ee529e810d68",
-      "large": "https://images.unsplash.com/photo-1534492013828-ee529e810d68"
+      "small": "small/varjupaik-8.jpg",
+      "medium": "medium/varjupaik-8.jpg",
+      "large": "large/varjupaik-8.jpg"
     }
   },
   {
@@ -74,9 +74,9 @@
     "title": "Täitev pealkiri",
     "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
     "sourceSet": {
-      "small": "https://images.unsplash.com/photo-1534469693708-b3428f119ddc",
-      "medium": "https://images.unsplash.com/photo-1534469693708-b3428f119ddc",
-      "large": "https://images.unsplash.com/photo-1534469693708-b3428f119ddc"
+      "small": "small/varjupaik-9.jpg",
+      "medium": "medium/varjupaik-9.jpg",
+      "large": "large/varjupaik-9.jpg"
     }
   },
   {
@@ -84,9 +84,9 @@
     "title": "Täitev pealkiri",
     "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
     "sourceSet": {
-      "small": "https://images.unsplash.com/photo-1534465543841-efcaa01ac38a",
-      "medium": "https://images.unsplash.com/photo-1534465543841-efcaa01ac38a",
-      "large": "https://images.unsplash.com/photo-1534465543841-efcaa01ac38a"
+      "small": "small/varjupaik-10.jpg",
+      "medium": "medium/varjupaik-10.jpg",
+      "large": "large/varjupaik-10.jpg"
     }
   },
   {
@@ -94,29 +94,89 @@
     "title": "Täitev pealkiri",
     "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
     "sourceSet": {
-      "small": "https://images.unsplash.com/photo-1534506020183-7a4a2dc333bc",
-      "medium": "https://images.unsplash.com/photo-1534506020183-7a4a2dc333bc",
-      "large": "https://images.unsplash.com/photo-1534506020183-7a4a2dc333bc"
+      "small": "small/varjupaik-11.jpg",
+      "medium": "medium/varjupaik-11.jpg",
+      "large": "large/varjupaik-11.jpg"
     }
   },
   {
     "id": 10,
     "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst mis kirjeldaks pildil olevat.",
     "sourceSet": {
-      "small": "https://images.unsplash.com/photo-1525100968504-55e59fcfb9c8",
-      "medium": "https://images.unsplash.com/photo-1525100968504-55e59fcfb9c8",
-      "large": "https://images.unsplash.com/photo-1525100968504-55e59fcfb9c8"
+      "small": "small/varjupaik-12.jpg",
+      "medium": "medium/varjupaik-12.jpg",
+      "large": "large/varjupaik-12.jpg"
     }
   },
   {
     "id": 11,
     "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst mis kirjeldaks pildil olevat.",
+    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
     "sourceSet": {
-      "small": "https://images.unsplash.com/photo-1534500847038-f5935bc6ca2b",
-      "medium": "https://images.unsplash.com/photo-1534500847038-f5935bc6ca2b",
-      "large": "https://images.unsplash.com/photo-1534500847038-f5935bc6ca2b"
+      "small": "small/varjupaik-13.jpg",
+      "medium": "medium/varjupaik-13.jpg",
+      "large": "large/varjupaik-13.jpg"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Täitev pealkiri",
+    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "sourceSet": {
+      "small": "small/varjupaik-14.jpg",
+      "medium": "medium/varjupaik-14.jpg",
+      "large": "large/varjupaik-14.jpg"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Täitev pealkiri",
+    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "sourceSet": {
+      "small": "small/varjupaik-15.jpg",
+      "medium": "medium/varjupaik-15.jpg",
+      "large": "large/varjupaik-15.jpg"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Täitev pealkiri",
+    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "sourceSet": {
+      "small": "small/varjupaik-16.jpg",
+      "medium": "medium/varjupaik-16.jpg",
+      "large": "large/varjupaik-16.jpg"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Täitev pealkiri",
+    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "sourceSet": {
+      "small": "small/varjupaik-17.jpg",
+      "medium": "medium/varjupaik-17.jpg",
+      "large": "large/varjupaik-17.jpg"
+    }
+  },
+  {
+    "id": 16,
+    "title": "Täitev pealkiri",
+    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "sourceSet": {
+      "small": "small/varjupaik-18.jpg",
+      "medium": "medium/varjupaik-18.jpg",
+      "large": "large/varjupaik-18.jpg"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Täitev pealkiri",
+    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "sourceSet": {
+      "small": "small/varjupaik-19.jpg",
+      "medium": "medium/varjupaik-19.jpg",
+      "large": "large/varjupaik-19.jpg"
     }
   }
 ]
