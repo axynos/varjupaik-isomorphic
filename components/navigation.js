@@ -37,7 +37,7 @@ const styles = css`
     }
   }
 
-  @media all and (max-width:45em) {
+  @media all and (max-width:50em) {
     .right {
       display: none;
     }

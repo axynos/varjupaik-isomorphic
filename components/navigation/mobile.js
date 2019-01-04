@@ -45,17 +45,22 @@ const style = css`
 
     display: flex;
     justify-content: flex-end;
+
+    opacity: 0.6;
+    transition: opacity 150ms ease-out;
   }
 
   .links a:visited {
     color: white;
   }
 
-  @media all and (max-width:45em) {
-    .active {
-      position: fixed;
-      transform: translateX(0);
-    }
+  .links a:hover {
+    opacity: 1;
+  }
+
+  .active {
+    position: fixed;
+    transform: translateX(0);
   }
 `
 

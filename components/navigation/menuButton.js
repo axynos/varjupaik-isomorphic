@@ -26,7 +26,7 @@ const style = css`
     padding: 2vh 0px;
   }
 
-  @media all and (max-width:45em) {
+  @media all and (max-width:50em) {
     a {
       display: inline-block;
     }
