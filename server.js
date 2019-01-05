@@ -11,6 +11,12 @@ app.prepare()
 .then(() => {
   const server = express()
 
+  server.get('/galerii/image/:id', (req, res) => {
+    const actualPage = '/galerii/details'
+    const queryParams = { id: req.params.id }
+    app.render(req, res, actualPage, queryParams)
+  })
+
   server.get('*', (req, res) => {
     return handle(req, res)
   })
