@@ -3,6 +3,7 @@ import ActiveLink from '../navigation/activeLink';
 import MobileMenuButton from '../navigation/menuButton'
 import Link from 'next/link'
 import React from 'react'
+import { withRouter } from 'next/router'
 
 const style = css`
   div {
@@ -58,31 +59,39 @@ const style = css`
     opacity: 1;
   }
 
-  .active {
+  .links a.active {
+    color: #51c5ff;
+  }
+
+  div.active {
     position: fixed;
     transform: translateX(0);
   }
 `
 
 const Mobile = (props) => {
+  const active = (href) => (
+    props.router.pathname == href ? 'active' : ''
+  )
+
   return (
     <div className={props.active ? 'active' : null}>
       <MobileMenuButton active mobile clickHandler={props.clickHandler}/>
       <section className='links'>
         <Link href='/'>
-          <a>Avaleht</a>
+          <a className={active('/')}>Avaleht</a>
         </Link>
         <Link href='/meist'>
-          <a>Meist</a>
+          <a className={active('/meist')}>Meist</a>
         </Link>
         <Link href='/teenused'>
-          <a>Teenused</a>
+          <a className={active('/teenused')}>Teenused</a>
         </Link>
         <Link href='/galerii'>
-          <a>Galerii</a>
+          <a className={active('/galerii')}>Galerii</a>
         </Link>
         <Link href='/kontakt'>
-          <a>Kontakt</a>
+          <a className={active('/kontakt')}>Kontakt</a>
         </Link>
       </section>
       <style jsx>{style}</style>
@@ -90,4 +99,4 @@ const Mobile = (props) => {
   )
 }
 
-export default Mobile
+export default withRouter(Mobile)
