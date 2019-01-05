@@ -12,7 +12,7 @@ const Head = ({ router, head = {} }) => {
   } = head;
 
   const calculatedTitle = subpage ? `${title} | ${subpage}` : `${title}`
-  const baseUrl = 'https://varjupaik.ee'
+  const baseUrl = 'https://tartuvarjupaik.ee'
   const url = `${baseUrl}${router.asPath}`
   const imageUrl = `${baseUrl}${image}`
 
