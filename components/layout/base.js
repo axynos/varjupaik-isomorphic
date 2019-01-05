@@ -10,7 +10,7 @@ const Base = ({
     className=''} ) => {
 
   return (
-    <div>
+    <div className={className}>
       <Head>
         <title>{title}</title>
         <meta name='description' content={description} key='description'/>

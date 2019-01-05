@@ -62,7 +62,7 @@ class Navigation extends React.Component {
 
   render() {
     return (
-      <nav>
+      <nav className={this.props.className}>
         <div className='left'>
           <ActiveLink href='/' disabled>
             Varjupaik
