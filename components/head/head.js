@@ -6,7 +6,7 @@ const Head = ({ router, head = {} }) => {
   const {
     title = 'Varjupaik',
     subpage,
-    description = `Pakume tugiisikuteenust ja peavarjuta jäänud täiskasvanutele 
+    description = `Pakume tugiisikuteenust ja peavarjuta jäänud täiskasvanutele
                    ajutist peavarju ning tagame nende turvalisuse.`,
     image = '/static/images/small/varjupaik-2.jpg'
   } = head;
@@ -27,18 +27,16 @@ const Head = ({ router, head = {} }) => {
       <meta key='charset' charSet='utf-8' />
       <meta key='viewport' name='viewport' content='initial-scale=1, width=device-width' />
 
-      /*Open Graph*/
       <meta key='og:title' property="og:title" content={calculatedTitle} />
       <meta key='og:description' property="og:description" content={description} />
       <meta key='og:url' property="og:url" content={url} />
       <meta key='og:image' property="og:image" content={imageUrl} />
 
-      /*Twitter Card*/
-      <meta name=”twitter:card” content='summary' />
-      <meta name=”twitter:site” content='@Varjupaik' />
-      <meta name=”twitter:title” content={title} />
-      <meta name=”twitter:description” content={description} />
-      <meta name=”twitter:image” content={imageUrl} />
+      <meta name='twitter:card' content='summary' />
+      <meta name='twitter:site' content='@Varjupaik' />
+      <meta name='twitter:title' content={title} />
+      <meta name='twitter:description' content={description} />
+      <meta name='twitter:image' content={imageUrl} />
     </NextHead>
   )
 }
