@@ -59,13 +59,23 @@ const styles = css`
   }
 `
 
-export default (props) => (
-  <footer className={props.dark ? 'dark' : null}>
-    {/* (Copyright Symbol) (Current Year) | Varjupaik*/}
-    <div>
-      <p>{`\u00A9 ${new Date(Date.now()).getFullYear()} | Varjupaik`}</p>
-      <a href='https://axynos.design'>AXYNOS OÜ</a>
-    </div>
-    <style jsx>{styles}</style>
-  </footer>
+const Footer = (props) => {
+  let classList = []
+  classList = classList.concat(props.dark ? 'dark' : '')
+  classList = classList.concat(props.className)
+
+  const className = classList.join(' ')
+
+  return (
+    <footer className={className}>
+      {/* (Copyright Symbol) (Current Year) | Varjupaik*/}
+      <div>
+        <p>{`\u00A9 ${new Date(Date.now()).getFullYear()} | Varjupaik`}</p>
+        <a href='https://axynos.design'>AXYNOS OÜ</a>
+      </div>
+      <style jsx>{styles}</style>
+    </footer>
 )
+}
+
+export default Footer
