@@ -11,7 +11,9 @@
     "start": "NODE_ENV=production node server.js",
     "dev": "node server.js",
     "build": "next build",
-    "deploy": "now"
+    "stage": "now",
+    "alias": "now alias",
+    "deploy": "now && now alias"
   },
   "dependencies": {
     "@zeit/next-mdx": "^1.2.0",
