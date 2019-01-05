@@ -94,9 +94,14 @@ const ImagePage = (props) => {
   }
 
   const metaImageUrl = `/static/images/${image.sourceSet.small}`
+  const head = {
+    subpage: image.title,
+    description: image.description,
+    image: metaImageUrl
+  }
 
   return (
-    <Layout head={{ subpage: image.title, description: image.description image: metaImageUrl }}>
+    <Layout head={head}>
       <main>
         <section>
           <Information className={information.className}
