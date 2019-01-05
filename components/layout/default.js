@@ -2,8 +2,8 @@ import Base from './base'
 import Navigation from '../navigation'
 import Footer from '../footer'
 
-const Default = ({children, title, description}) => (
-  <Base>
+const Default = ({children, head}) => (
+  <Base head={head}>
     <Navigation />
       {children}
       <style jsx>{`
