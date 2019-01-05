@@ -2,11 +2,12 @@ import Head from 'next/head'
 import textBase from '../styles/textBase'
 import base from '../styles/base'
 
-export default ({
+const Base = ({
     children,
     title='Varjupaik',
     description=`Pakume peavarjuta jäänud täiskasvanutele ajutist peavarju ning tagame nende turvalisuse.
-      Lisaks osutame me ka tugiisikuteenust.`} ) => {
+      Lisaks osutame me ka tugiisikuteenust.`,
+    className=''} ) => {
 
   return (
     <div>
@@ -28,3 +29,5 @@ export default ({
     </div>
   )
 }
+
+export default Base

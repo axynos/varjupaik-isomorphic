@@ -2,7 +2,7 @@ import Base from './base'
 import Navigation from '../navigation'
 import Footer from '../footer'
 
-export default ({children, title, description}) => (
+const Default = ({children, title, description}) => (
   <Base>
     <Navigation />
       {children}
@@ -14,3 +14,5 @@ export default ({children, title, description}) => (
     <Footer />
   </Base>
 )
+
+export default Default

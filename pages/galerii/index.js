@@ -37,8 +37,7 @@ const style = css`
   }
 `
 
-
-export default () => (
+const GalleryPage = () => (
   <Layout>
     <main>
       <h1>Galerii</h1>
@@ -49,3 +48,5 @@ export default () => (
     </main>
   </Layout>
 )
+
+export default GalleryPage
