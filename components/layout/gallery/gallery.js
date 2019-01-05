@@ -3,8 +3,8 @@ import Base from '../base'
 import Navigation from '../../navigation'
 import Footer from '../../footer'
 
-const GalleryLayout = ({children, title='Varjupaik | Galerii', description}) => (
-  <Base>
+const GalleryLayout = ({children, head}) => (
+  <Base head={head}>
     <Navigation />
       {children}
     <Footer/>

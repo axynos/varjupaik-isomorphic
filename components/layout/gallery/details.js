@@ -15,10 +15,9 @@ const base = css.resolve`
   }
 `
 
-
-const ImageLayout = ({props, children, title='Varjupaik | Galerii', description}) => (
-  <Base className={base.className}>
-    <Navigation className={navigation.className}/>
+const ImageLayout = ({props, children, head}) => (
+  <Base head={head} className={base.className}>
+    <Navigation/>
     {children}
     <Footer dark/>
 

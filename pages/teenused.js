@@ -3,8 +3,14 @@ import Heading from '../components/markdown/teenused/teenused.md'
 import Table from '../components/teenused/table'
 import ServiceList from '../components/teenused/services'
 
+const head = {
+  subpage: 'Teenused',
+  description: `Varjupaik pakub palju teenuseid tugiisikutest peavarjuni.
+               Rohkem informatsiooni ja teenuste tingimused leiad veebilehelt.`
+}
+
 const Services = () => (
-  <Layout>
+  <Layout head={head}>
     <main>
       <section key={1}>
         <Heading />

@@ -10,8 +10,13 @@ const images = (_ => {
   ))
 })()
 
+const head = {
+  subpage:'Meist',
+  description: `Varjupaiga ajalugu ja informatsiooni praeguste tegevuste kohta.`
+}
+
 export default () => (
-  <Layout>
+  <Layout head={head}>
     <main>
       <h1 className='title'>Meist</h1>
 

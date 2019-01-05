@@ -1,6 +1,7 @@
 import Layout from '../components/layout/default'
 import Map from '../components/map'
 import Link from 'next/link'
+import Head from '../components/head/head'
 
 import contactData from '../data/contacts.json'
 

@@ -93,8 +93,10 @@ const ImagePage = (props) => {
     Router.push(`/galerii/details?id=${newId}`, `/galerii/image/${newId}`, {shallow: true})
   }
 
+  const metaImageUrl = `/static/images/${image.sourceSet.small}`
+
   return (
-    <Layout>
+    <Layout head={{ subpage: image.title, description: image.description image: metaImageUrl }}>
       <main>
         <section>
           <Information className={information.className}

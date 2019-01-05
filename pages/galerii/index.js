@@ -36,9 +36,13 @@ const style = css`
     }
   }
 `
+const head = {
+  subpage: 'Galerii',
+  description: 'Varjupaigast ruumidest tehtud piltide galerii.'
+}
 
 const GalleryPage = () => (
-  <Layout>
+  <Layout head={head}>
     <main>
       <h1>Galerii</h1>
       <GridView className={imageGrid.className} images={images}/>

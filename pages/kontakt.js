@@ -2,8 +2,14 @@ import Layout from '../components/layout/default'
 import contactData from '../data/contacts.json'
 import Map from '../components/map'
 
+const head = {
+  subpage: 'Kontakt',
+  description: `Siit leiad nii Varjupaiga üldmeili kui ka juhataja, 
+                tugiisikute kui ka sotsiaaltöötajate kontaktid.`
+}
+
 export default () => (
-  <Layout>
+  <Layout head={head}>
     <main>
       <section className='contact'>
         <h1 className='title'>Kontakt</h1>
