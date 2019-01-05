@@ -22,7 +22,10 @@ const GridElement = (props) => {
 
   return (
     <div>
-      <Link href="/galerii/image">
+      <Link
+        as={`/galerii/image/${props.data.id}`}
+        href={`/galerii/details?id=${props.data.id}`}>
+
         <a>
         <Image className={image.className} data={props.data} />
         {image.styles}
