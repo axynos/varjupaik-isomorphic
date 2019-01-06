@@ -85,7 +85,7 @@ const style = css`
 `
 
 const ImagePage = (props) => {
-  let id = props.url.query.id
+  let id = props.router.query.id
   let image = data[id]
 
   const clickHandler = (e, newId) => {
