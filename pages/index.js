@@ -67,7 +67,7 @@ export default () => (
     <main>
       <section className='jumbotron'>
         <h1>Üldinfo</h1>
-        <p>{`Pakume peavrjuta jäänud täiskasvanutele ajutist peavarju ning tagame nende turvalisuse.
+        <p>{`Pakume peavarjuta jäänud täiskasvanutele ajutist peavarju ning tagame nende turvalisuse.
           Lisaks osutame me ka tugiisikuteenust.`}</p>
         <p>Alustasime tegevust aastal XXXX ja oleme aidanud rohkem kui XXXX inimest.</p>
 
