@@ -2,6 +2,7 @@ import Layout from '../components/layout/default'
 import Heading from '../components/markdown/teenused/teenused.md'
 import Table from '../components/teenused/table'
 import ServiceList from '../components/teenused/services'
+import Info from '../components/markdown/teenused/lisainfo.md'
 
 const head = {
   subpage: 'Teenused',
@@ -18,6 +19,7 @@ const Services = () => (
       </section>
       <section key={2}>
         <ServiceList />
+        <Info />
       </section>
       <style jsx>{`
         main {

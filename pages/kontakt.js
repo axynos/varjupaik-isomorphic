@@ -4,7 +4,7 @@ import Map from '../components/map'
 
 const head = {
   subpage: 'Kontakt',
-  description: `Siit leiad nii Varjupaiga üldmeili kui ka juhataja, 
+  description: `Siit leiad nii Varjupaiga üldmeili kui ka juhataja,
                 tugiisikute kui ka sotsiaaltöötajate kontaktid.`
 }
 
@@ -32,12 +32,14 @@ export default () => (
             {contactData.phones.supportPersons.map((item, index) =>
               (<p key={index}>{item}</p>))
             }
-            <h2>Asukoht</h2>
-              <p>
-                <a href={contactData.locationURL}>
-                  {contactData.location}
-                </a>
-              </p>
+          <h2>Korrapidaja (24h)</h2>
+            {contactData.phones.monitor}
+          <h2>Asukoht</h2>
+            <p>
+              <a href={contactData.locationURL}>
+                {contactData.location}
+              </a>
+            </p>
         </div>
       </section>
       <style jsx>{`

@@ -2,7 +2,9 @@ import dynamic from 'next/dynamic'
 import css from 'styled-jsx/css'
 
 const filenames = [
-  "tugiisikuteenus"
+  'sotsiaalmajutusteenus',
+  'sotsiaaleluruumiteenus',
+  'tugiisikuteenus'
 ]
 
 const { className, styles} = css.resolve`

@@ -1,13 +1,50 @@
-Pakume peavarjuta jäänud täiskasvanutele ajutist peavarju ning tagame nende turvalisuse. Lisaks osutame me ka tugiisikuteenust.
+Varjupaiga eesmärgiks on ajutise peavarju teenuse osutamine ja varjupaigas viibivatele inimestele
+turvalisuse ja pesemisvõimaluse tagamine ning võimalusel toidu- ja riideabi andmine.
 
-Alustasime tegevust aastal XXXX ja oleme aidanud rohkem kui XXXX inimest.
+Meie põhitegevus on osutada eluasemeta inimestele ajutist ööpäevast abi, tuge ja kaitset.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et diam rhoncus, vestibulum elit non, egestas felis. Maecenas nec ligula sit amet leo dictum efficitur vel sed nisl. Sed mauris diam, aliquam id libero id, fringilla auctor arcu. Praesent ullamcorper, tellus sodales suscipit sollicitudin, felis nulla euismod quam, at ornare tortor ligula vel sapien. Suspendisse molestie tristique erat id porttitor. Curabitur nec mollis leo, eu feugiat diam. Vestibulum ornare lacus purus. Pellentesque a consectetur nisi. Integer condimentum diam mauris, vitae laoreet magna placerat et. Morbi hendrerit tempus massa eget varius. Donec et varius nisl. Etiam consequat nec nulla eget sollicitudin. Sed mattis urna a pharetra vulputate.
+## Varjupaik
+Varjupaik moodustati 11. veebruaril 1999. aastal ning algselt oli majas ainult ööbimisvõimalus.
+2011. aastal anti Varjupaigale üle päevakeskus, mille ruumid kuulusid enne MTÜ-le Iseseisev Elu.
+Päevakeskuses hoidsid korda korrapidajad ning võeti tööle ka sotsiaaltöötaja, kelle poole peavarjuta
+inimesed said abi saamiseks pöörduda.
 
-Duis scelerisque nibh sit amet suscipit tempor. Duis eleifend magna eu pellentesque condimentum. Nullam laoreet nec dolor et venenatis. Etiam ac nulla justo. Proin rhoncus, purus at condimentum tempor, ex arcu sollicitudin arcu, luctus dictum enim nibh luctus tortor. Proin varius fringilla lorem at finibus. Maecenas mollis risus tristique posuere dictum. Cras nisl risus, pulvinar vitae nunc ut, auctor facilisis erat. Nunc a sagittis nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas id tortor aliquet, ullamcorper leo id, rutrum purus.
+Varjupaik annab abi eelkõige Tartu linnas elavatele täisealistele isikutele, kellel puudub ööbimiskoht ja
+võimalus seda endale tagada. Väljaspool oma elukohta viibivatele isikutele osutatakse abi kooskõlastatult
+isiku elukohajärgse valla- või linnavalitsusega. Alates 2015. aasta märtsist on muu sissekirjutusega
+isikutel võimalik ööbida tasuta ainult viis ööd. Edaspidine ööbimine maksab 8 eurot öö.  
+Varjupaigas on 52 voodikohta, neist 10 on naistekohad. Ruumidesse sisenemisel peab isik esitama isikut
+tõendava dokumendi ja pere- või üldarsti poolt väljastatud tõendi isiku nakkusohtlikuse kohta (ehk
+kopsuröntgeni väljavõtte/ kopsutõendi).
 
-Curabitur congue metus quis urna egestas, nec dignissim neque vestibulum. Donec vel metus rhoncus, congue lacus sit amet, hendrerit ligula. Ut at enim lacus. Maecenas eu nibh ultricies turpis viverra ultricies. Nulla ac sapien non augue porta dictum. Aenean imperdiet accumsan dolor, at interdum ex. Sed sit amet maximus quam. Maecenas interdum turpis ac est dapibus, et porta dolor aliquam. Aenean lectus turpis, vehicula eu nulla at, rutrum pharetra turpis. Nulla convallis felis nec magna faucibus aliquam.
+Voodikohtadega ruumides ei ole lubatud siseneda ja voodikohta
+kasutada joobeseisundis isikutel. Tõendite puudumise või joobeseisundi korral suunatakse isik ööbima
+põrandaküttega soojustatud ruumidesse, kus on olemas eraldi duširuum ja WC. Ruumid mahutavad
+umbes 35 inimest.
 
-Pellentesque porttitor tristique ligula, sed scelerisque sapien rhoncus at. Duis luctus pulvinar ante, in aliquet tellus. Morbi at sem eget diam suscipit bibendum. Nullam pharetra vitae elit a iaculis. Mauris suscipit vitae neque nec eleifend. Vestibulum euismod tincidunt efficitur. Etiam rhoncus nulla vel nulla placerat, sed interdum tellus placerat. Aliquam faucibus lacus erat, et bibendum nulla placerat in. Phasellus iaculis massa consequat mollis fringilla. Integer non est justo. Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non dolor quis purus vestibulum porta. Mauris eget felis id odio consectetur tincidunt. Donec sit amet tellus est. Donec iaculis lacus non felis venenatis, at sagittis nibh elementum.
+### Päevakeskus
+Päevasel ajal (kl 8-16.45) on peavarjuta jäänud inimestel võimalik viibida päevakeskuses, kus neil on
+võimalik kasutada duširuumi, kööki ja puhkeruumi. Samuti on tööpäevadel võimalik pöörduda
+sotsiaaltöötaja poole, kes nõustab sotsiaalsetel teemadel ja abistab ametlikes asjaajamistes.
 
-Quisque ultricies malesuada nisl nec imperdiet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris suscipit ex purus, nec consequat ex dictum nec. Pellentesque ullamcorper, libero non cursus tempus, eros erat aliquet nulla, at tristique turpis mi lobortis nisi. In leo sapien, consectetur ac fermentum tempor, semper sit amet urna. Aliquam egestas fringilla malesuada. Pellentesque mi justo, luctus convallis ligula ultrices, hendrerit placerat mi. Sed mattis libero congue ex venenatis fermentum.
+#### Pakutavate teenuste ajalugu
+Sotsiaalmajutusteenus tekkis 1. september 2008. aastal. Algselt oli teenus 8 voodikohaga,
+maja 1. korrusel, kus töötas ka sotsiaaltöötaja.  
+Alates 2010. aastast laienes
+sotsiaalmajutusteenus maja 2. korrusele, mis suurendas teenust 24 voodikoha võrra.
+Teenuse suurenemise tõttu võeti 2011. aastal tööle teine sotsiaaltöötaja.
+
+Sotsiaalmajutusteenuse eesmärk on võimaldada teenuse saajale elukoht ning parandada tema
+toimetulekuvõimet ja -oskust, et isik suudaks edaspidi iseseisvalt oma igapäevaelu
+korraldada ja eluruumi kasutamisega toime tulla.
+
+Lubja tn 7 maja loodi algselt sotsiaalmajana, millele on teenuseid aja jooksul
+juurde lisandunud. Alates 2010. aastast on sotsiaalruumi teenust osutatud maja 3.
+ja 4. korrusel, kus asub 36 eluruumi.
+
+Samas majas asub ka kahe tugiisiku tööruum, kes osutavad tugiisikuteenust Tartu
+linna abivajavatele isikutele ja peredele.
+
+Tugiisikuteenuse eesmärk on toetada iseseisvat toimetulekut olukordades, kus isik
+vajab sotsiaalsete, majanduslike, psühholoogiliste või tervislike probleemide
+tõttu olulisel määral kõrvalabi oma kohustuste ja õiguste kasutamisel.

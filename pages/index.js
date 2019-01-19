@@ -5,6 +5,13 @@ import Head from '../components/head/head'
 
 import contactData from '../data/contacts.json'
 
+const generalDescription = `
+      Tartu Linna Asutus Varjupaik on Tartu Linnavalitsuse sotsiaal- ja
+      tervishoiuosakonna haldusalas tegustev kohaliku omavalitsuse asutus.
+      Varjupaik pakub ajutise peavarju teenust, sotsiaalmajutusteenust ja
+      sotsiaaleluruumi teenust. Samas majas asub ka tugiisikute tööruum.
+      `
+
 export default () => (
   <Layout>
     <header>
@@ -67,9 +74,7 @@ export default () => (
     <main>
       <section className='jumbotron'>
         <h1>Üldinfo</h1>
-        <p>{`Pakume peavarjuta jäänud täiskasvanutele ajutist peavarju ning tagame nende turvalisuse.
-          Lisaks osutame me ka tugiisikuteenust.`}</p>
-        <p>Alustasime tegevust aastal XXXX ja oleme aidanud rohkem kui XXXX inimest.</p>
+        <p>{generalDescription}</p>
 
         <Link href='/teenused'>
           <a>Tutvu meie teenustega <span>arrow_forward</span></a>
@@ -106,6 +111,8 @@ export default () => (
             {contactData.phones.supportPersons.map((item, index) =>
               (<p key={index}>{item}</p>))
             }
+          <h2>Korrapidaja (24h)</h2>
+            {contactData.phones.monitor}
           <h2>Asukoht</h2>
             <p>
               <a href={contactData.locationURL}>

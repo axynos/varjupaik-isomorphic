@@ -1,12 +1,15 @@
-## Tugiisikuteenus
+## Tugiiskuteenus
+Varjupaigas töötab kaks tugiisikut, kes osutavad Tartu linna abivajavatele
+isikutele ja peredele tugiisikuteenust.
 
-Tugiisikuteenust osutame me isikutele, kes vastavad allpool välja toodud tingimustele. See teenus hõlmab seda ja toda.
+Tugiisikuteenuse eesmärk on toetada iseseisvat toimetulekut olukordades, kus isik
+vajab sotsiaalsete, majanduslike, psühholoogiliste või tervislike probleemide
+tõttu oma kohustuste täitmisel ja õiguste kasutamisel olulisel määral kõrvalabi.
+Isikut juhendatakse ja motiveeritakse ning arendatakse tema iseseisvust ja
+omavastutusvõimet.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et diam rhoncus, vestibulum elit non, egestas felis. Maecenas nec ligula sit amet leo dictum efficitur vel sed nisl. Sed mauris diam, aliquam id libero id, fringilla auctor arcu. Praesent ullamcorper, tellus sodales suscipit sollicitudin, felis nulla euismod quam, at ornare tortor ligula vel sapien. Suspendisse molestie tristique erat id porttitor. Curabitur nec mollis leo, eu feugiat diam. Vestibulum ornare lacus purus.
-
-#### Tingimused, mida on parem väljendada nimekirjana.
-
-* Detail nr 1
-* Teine detail
-* Midagi kolmandaks.
-* Mida muud ikka öelda on.
+#### Kuidas tugiisikuteenust saada?
+Teenuse saamiseks tuleb esitada avaldus piirkonna sotsiaaltöö spetsialistile,
+kes inimese vajadusi kaardistades otsustab tugiisikuteenuse vajaduse üle.
+Tugiisikuteenusele suunatakse abivajadusest sõltuvalt, alates kolmest kuust
+kuni ühe aastani.

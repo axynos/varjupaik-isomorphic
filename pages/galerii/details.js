@@ -90,7 +90,7 @@ const ImagePage = (props) => {
 
   const clickHandler = (e, newId) => {
     e.preventDefault()
-    Router.push(`/galerii/details?id=${newId}`, `/galerii/image/${newId}`, {shallow: true})
+    props.router.push(`/galerii/details?id=${newId}`, `/galerii/image/${newId}`, {shallow: true})
   }
 
   const metaImageUrl = `/static/images/${image.sourceSet.small}`
@@ -122,6 +122,15 @@ const ImagePage = (props) => {
   )
 }
 
+ImagePage.getInitialProps = async ({req: {params: { id }}}) => {
+  const image = data[id]
 
+  if (image == null) {
+    const err = new Error();
+    err.code = 'ENOENT'
+    throw err
+  }
+  return { image }
+}
 
 export default withRouter(ImagePage)

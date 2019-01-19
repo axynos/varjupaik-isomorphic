@@ -1,8 +1,8 @@
 [
   {
     "id": 0,
-    "title": "Koridor",
-    "description": "Siin on koridor....",
+    "title": "Tartu Linna asutus Varjupaik",
+    "description": "Lubja tn 7 maja esikülg. Maja renoveeriti aastal 2010.",
     "sourceSet": {
       "small": "small/varjupaik-1.jpg",
       "medium": "medium/varjupaik-1.jpg",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1,
-    "title": "Maaling",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "title": "Tartu Linna asutus Varjupaik",
+    "description": "Lubja tn 7 maja tagumine külg. Maja renoveeriti aastal 2010. ",
     "sourceSet": {
       "small": "small/varjupaik-2.jpg",
       "medium": "medium/varjupaik-2.jpg",
@@ -21,8 +21,8 @@
   },
   {
     "id": 2,
-    "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "title": "Tartu Linna asutus Varjupaik",
+    "description": "Lubja tn 7 maja peauks.",
     "sourceSet": {
       "small": "small/varjupaik-3.jpg",
       "medium": "medium/varjupaik-3.jpg",
@@ -31,8 +31,8 @@
   },
   {
     "id": 3,
-    "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "title": "Majajuht",
+    "description": "Varjupaiga peasissepääsu juures olev majajuht. Peasissepääsu juurest saab varjupaiga ööbimiskohtadele, päevakeskusesse ja sotsiaalmajutusteenusele.",
     "sourceSet": {
       "small": "small/varjupaik-4.jpg",
       "medium": "medium/varjupaik-4.jpg",
@@ -41,8 +41,8 @@
   },
   {
     "id": 4,
-    "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "title": "Ööbimiskohad",
+    "description": "Voodikohale saavad inimesed, kellel on olemas kopsutõend ning kellel puudub joobeseisund.",
     "sourceSet": {
       "small": "small/varjupaik-5.jpg",
       "medium": "medium/varjupaik-5.jpg",
@@ -51,8 +51,8 @@
   },
   {
     "id": 5,
-    "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "title": "Ööbimiskohad",
+    "description": "Varjupaigas on 52 voodikohta, neist 10 on naistekohad.",
     "sourceSet": {
       "small": "small/varjupaik-7.jpg",
       "medium": "medium/varjupaik-7.jpg",
@@ -61,8 +61,8 @@
   },
   {
     "id": 6,
-    "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "title": "Puhkeruum",
+    "description": "Puhkeruumis on võimalik vaadata televiisorit, lugeda raamatuid.",
     "sourceSet": {
       "small": "small/varjupaik-8.jpg",
       "medium": "medium/varjupaik-8.jpg",
@@ -71,8 +71,8 @@
   },
   {
     "id": 7,
-    "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "title": "Puhkeruum",
+    "description": "Puhkeruumis on võimalik vaadata televiisorit, lugeda raamatuid.",
     "sourceSet": {
       "small": "small/varjupaik-9.jpg",
       "medium": "medium/varjupaik-9.jpg",
@@ -81,8 +81,8 @@
   },
   {
     "id": 8,
-    "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "title": "Kööginurk",
+    "description": "Ööbijatel on võimalik seal süüa teha. Toiduained peavad endal olemas olema.",
     "sourceSet": {
       "small": "small/varjupaik-10.jpg",
       "medium": "medium/varjupaik-10.jpg",
@@ -91,8 +91,8 @@
   },
   {
     "id": 9,
-    "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "title": "Sotsiaalmajutusteenuse 1. korruse koridor",
+    "description": "Korrusel asuvad majutusteenuse toad ja personali ruumid.",
     "sourceSet": {
       "small": "small/varjupaik-11.jpg",
       "medium": "medium/varjupaik-11.jpg",
@@ -101,8 +101,8 @@
   },
   {
     "id": 10,
-    "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst mis kirjeldaks pildil olevat.",
+    "title": "Sotsiaalmajutusteenuse 2. korruse kööginurk",
+    "description": "Majutusteenuse elanikel on võimalik teha köögis süüa. Neil peavad endal olemas olema kööginõud ja söögiriistad.",
     "sourceSet": {
       "small": "small/varjupaik-12.jpg",
       "medium": "medium/varjupaik-12.jpg",
@@ -111,8 +111,8 @@
   },
   {
     "id": 11,
-    "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "title": "Sotsiaalmajutusteenuse 2. korruse kööginurk",
+    "description": "Köögis on olemas kõik toidu valmimiseks vajalik tehnika. Külmik on ühiskasutatav.",
     "sourceSet": {
       "small": "small/varjupaik-13.jpg",
       "medium": "medium/varjupaik-13.jpg",
@@ -121,8 +121,8 @@
   },
   {
     "id": 12,
-    "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "title": "Sotsiaalmajutusteenuse 2. korruse puhkeruum",
+    "description": "Puhkeruumis on võimalik vaadata televiisorit, suhelda teiste majaelanikega ja lugeda raamatuid.",
     "sourceSet": {
       "small": "small/varjupaik-14.jpg",
       "medium": "medium/varjupaik-14.jpg",
@@ -131,8 +131,8 @@
   },
   {
     "id": 13,
-    "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "title": "Sotsiaalmajutusteenuse tuba",
+    "description": "Toad on kahekohalised. Toas on olemas voodi, kapp ja riiul, ülejäänud esemed on elanike isiklikud asjad.",
     "sourceSet": {
       "small": "small/varjupaik-15.jpg",
       "medium": "medium/varjupaik-15.jpg",
@@ -141,8 +141,8 @@
   },
   {
     "id": 14,
-    "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "title": "Sotsiaalmajutusteenuse tuba",
+    "description": "Toad on kahekohalised. Toas on olemas voodi, kapp ja riiul, ülejäänud esemed on elanike isiklikud asjad.",
     "sourceSet": {
       "small": "small/varjupaik-16.jpg",
       "medium": "medium/varjupaik-16.jpg",
@@ -151,8 +151,8 @@
   },
   {
     "id": 15,
-    "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "title": "Maja tagumine külg",
+    "description": "Tagumisel küljel asub sissepääs varjupaiga ööbimiskohtadele ja maja 3.-4. korrusel asuvatesse sotsiaalkorteritesse.",
     "sourceSet": {
       "small": "small/varjupaik-17.jpg",
       "medium": "medium/varjupaik-17.jpg",
@@ -161,18 +161,8 @@
   },
   {
     "id": 16,
-    "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
-    "sourceSet": {
-      "small": "small/varjupaik-18.jpg",
-      "medium": "medium/varjupaik-18.jpg",
-      "large": "large/varjupaik-18.jpg"
-    }
-  },
-  {
-    "id": 17,
-    "title": "Täitev pealkiri",
-    "description": "Natuke tühja teksti, et näidata, milline näeks välja tekst, mis kirjeldaks pildil olevat.",
+    "title": "Maja tagumine külg",
+    "description": "Tagumisel küljel asub sissepääs varjupaiga ööbimiskohtadele ja maja 3.-4. korrusel asuvatesse sotsiaalkorteritesse.",
     "sourceSet": {
       "small": "small/varjupaik-19.jpg",
       "medium": "medium/varjupaik-19.jpg",
