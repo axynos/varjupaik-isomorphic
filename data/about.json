@@ -1,18 +1,18 @@
 [
   {
-    "source": "https://source.unsplash.com/random/800x600",
-    "caption": "Natuke täitvat teksti, et oleks näha kuidas pildi all olev kirjeldus välja näeb."
+    "source": "/static/images/small/varjupaik-1.jpg",
+    "caption": "Tartu Linna Asutus Varjupaik"
   },
   {
-    "source": "https://source.unsplash.com/random/800x600",
-    "caption": "Natuke täitvat teksti, et oleks näha kuidas pildi all olev kirjeldus välja näeb."
+    "source": "/static/about/small/about-1.jpg",
+    "caption": "Päevakeskuse köök. Köögis on peavarjuta inimestel võimalik valmistada süüa, nõud on koha peal olemas."
   },
   {
-    "source": "https://source.unsplash.com/random/800x600",
-    "caption": "Natuke täitvat teksti, et oleks näha kuidas pildi all olev kirjeldus välja näeb."
+    "source": "/static/about/small/about-2.jpg",
+    "caption": "Päevakeskuse puhkeruum. Peavarjuta inimestel on võimalus vaadata televiisorit ja lugeda raamatuid."
   },
   {
-    "source": "https://source.unsplash.com/random/800x600",
-    "caption": "Natuke täitvat teksti, et oleks näha kuidas pildi all olev kirjeldus välja näeb."
+    "source": "/static/about/small/about-3.jpg",
+    "caption": "Päevakeskuse puhkeruum."
   }
 ]
