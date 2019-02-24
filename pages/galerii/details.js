@@ -122,7 +122,7 @@ const ImagePage = (props) => {
   )
 }
 
-ImagePage.getInitialProps = async ({req: {params: { id }}}) => {
+ImagePage.getInitialProps = async ({ query: {id} }) => {
   const image = data[id]
 
   if (image == null) {
