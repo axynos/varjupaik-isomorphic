@@ -11,7 +11,7 @@
     "start": "NODE_ENV=production node server.js",
     "dev": "node server.js",
     "build": "next build",
-    "stage": "now",
+    "stage": "now && now alias varjupaik-staging.now.sh",
     "alias": "now alias",
     "deploy": "now && now alias"
   },
