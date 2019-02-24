@@ -27,7 +27,7 @@ Päevasel ajal (kl 8-16.45) on peavarjuta jäänud inimestel võimalik viibida p
 võimalik kasutada duširuumi, kööki ja puhkeruumi. Samuti on tööpäevadel võimalik pöörduda
 sotsiaaltöötaja poole, kes nõustab sotsiaalsetel teemadel ja abistab ametlikes asjaajamistes.
 
-#### Pakutavate teenuste ajalugu
+#### Pakutavad teenused
 Sotsiaalmajutusteenus tekkis 1. september 2008. aastal. Algselt oli teenus 8 voodikohaga,
 maja 1. korrusel, kus töötas ka sotsiaaltöötaja.  
 Alates 2010. aastast laienes
@@ -39,7 +39,7 @@ toimetulekuvõimet ja -oskust, et isik suudaks edaspidi iseseisvalt oma igapäev
 korraldada ja eluruumi kasutamisega toime tulla.
 
 Lubja tn 7 maja loodi algselt sotsiaalmajana, millele on teenuseid aja jooksul
-juurde lisandunud. Alates 2010. aastast on sotsiaalruumi teenust osutatud maja 3.
+juurde lisandunud. Alates 2010. aastast on sotsiaaleluasemeteenust osutatud maja 3.
 ja 4. korrusel, kus asub 36 eluruumi.
 
 Samas majas asub ka kahe tugiisiku tööruum, kes osutavad tugiisikuteenust Tartu

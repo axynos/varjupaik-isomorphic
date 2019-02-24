@@ -11,7 +11,7 @@ export default () => (
           <td key={2}>Teenuse saaja iseseisva igapäevase elukorralduse toetamiseks elukoht.</td>
         </tr>
         <tr key={3}>
-          <td key={1}>Sotsiaaleluruumiteenus</td>
+          <td key={1}>Sotsiaaleluasemeteenus</td>
           <td key={2}>Varjupaigas asuvad sotsiaaleluruumid, mis on ühiselamu tüüpi korterid.</td>
         </tr>
         <tr key={4}>

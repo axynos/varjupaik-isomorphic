@@ -1,8 +1,6 @@
 ## Sotsiaalmajutusteenus
 
-Sotsiaalmajutusteenuse eesmärk on võimaldada teenuse saajale elukoht ning parandada
-tema toimetulekuvõimet ja -oskust, et isik suudaks edaspidi iseseisvalt oma igapäevaelu
-korraldada ja eluruumi kasutamisega toime tulla.
+Sotsiaalmajutusteenuse eesmärk eesmärk on võimaldada teenuse saajale elukoht ning parandada tema toimetulekuvõimet ja -oskust, et isik suudaks edaspidi iseseisvalt oma igapäevaelu korraldada ja eluruumi kasutamisega toime tulla.
 
 Teenuse saaja kasutusse antakse voodikoht ühe- või kahekohalises toas koos abiruumide
 ja asjade kasutamise õigusega. Isikut toetatakse vajalike tugiteenustega, mille

@@ -3,7 +3,7 @@ import css from 'styled-jsx/css'
 
 const filenames = [
   'sotsiaalmajutusteenus',
-  'sotsiaaleluruumiteenus',
+  'sotsiaaleluasemeteenus',
   'tugiisikuteenus'
 ]
 
