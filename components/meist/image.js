@@ -25,24 +25,20 @@ const style = css`
 class Image extends Component {
   constructor(props) {
     super(props)
-    this.state = {
-      loaded: false
-    }
   }
 
   render() {
     let props = this.props
-    let state = this.state
 
     return (
       <div>
-        <img src={this.props.src} onLoad={() => this.setState( {loaded: true} )}/>
+        <img src={this.props.src}/>
         <p>{props.caption}</p>
 
         <style jsx>{style}</style>
         <style jsx>{`
           div {
-            display: ${state.loaded ? 'block' : 'none'}
+            display: block;
           }
         `}</style>
       </div>
