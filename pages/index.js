@@ -112,7 +112,9 @@ export default () => (
               (<p key={index}>{item}</p>))
             }
           <h2>Korrapidaja (24h)</h2>
-            {contactData.phones.monitor}
+            {contactData.phones.monitor.map((item, index) =>
+              (<p key={index}>{item}</p>))
+            }
           <h2>Asukoht</h2>
             <p>
               <a href={contactData.locationURL}>
