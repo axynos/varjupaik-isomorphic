@@ -4,12 +4,12 @@ import React from 'react';
 const style = css`
   div {
     grid-area: right;
-    display: flex;
+    display: none;
     justify-content: flex-end;
   }
 
   a {
-    display: none;
+    display: inline-block;
     font-family: 'Material Icons';
     font-size: 2em;
     color: white;
@@ -27,8 +27,8 @@ const style = css`
   }
 
   @media all and (max-width:50em) {
-    a {
-      display: inline-block;
+    div {
+      display: flex;
     }
   }
 `
