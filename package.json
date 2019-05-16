@@ -13,7 +13,7 @@
     "build": "next build",
     "stage": "now && now alias varjupaik-staging.now.sh",
     "alias": "now alias",
-    "deploy": "now && now alias"
+    "deploy": "now --target production"
   },
   "dependencies": {
     "@zeit/next-mdx": "^1.2.0",
