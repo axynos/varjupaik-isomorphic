@@ -7,5 +7,6 @@
       "use": "@now/next"
     }
   ],
-  "alias": "tartuvarjupaik.ee"
+  "alias": "tartuvarjupaik.ee",
+  "regions": ["arn1"]
 }

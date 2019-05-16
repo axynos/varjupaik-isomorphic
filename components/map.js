@@ -7,9 +7,11 @@ import {
   Marker,
 } from "react-google-maps";
 
+const key = 'AIzaSyAkEjSeRd7iRIiijLsjXKM4sag8bOAh9Hg'
+
 const Map = compose(
   withProps({
-    googleMapURL: "https://maps.googleapis.com/maps/api/js?key=AIzaSyDAUz0RwId089pSFL3DDz4Jtn0IUzm-9dE&v=3.exp&libraries=geometry,drawing,places",
+    googleMapURL: `https://maps.googleapis.com/maps/api/js?key=${key}&v=3.exp&libraries=geometry,drawing,places`,
     loadingElement: <div style={{ height: '100%', width: '100%' }} />,
     containerElement: <div style={{ height: '100%', width: '100%' }} />,
     mapElement: <div style={{ height: '100%', width: '100%' }} />,
