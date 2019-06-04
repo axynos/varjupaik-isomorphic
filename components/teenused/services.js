@@ -1,11 +1,17 @@
 import dynamic from 'next/dynamic'
 import css from 'styled-jsx/css'
 
-const filenames = [
-  'sotsiaalmajutusteenus',
-  'sotsiaaleluasemeteenus',
-  'tugiisikuteenus'
-]
+// const filenames = [
+//   'sotsiaalmajutusteenus',
+//   'sotsiaaleluasemeteenus',
+//   'tugiisikuteenus'
+// ]
+
+import Smt from '../markdown/teenused/kirjeldused/sotsiaalmajutusteenus.md'
+import Set from '../markdown/teenused/kirjeldused/sotsiaaleluasemeteenus.md'
+import Tut from '../markdown/teenused/kirjeldused/tugiisikuteenus.md'
+
+const components = [Smt, Set, Tut]
 
 const { className, styles} = css.resolve`
   ul li {
@@ -27,22 +33,26 @@ const mdxComponents = {
   li: myLi
 }
 
-const components = (
-  filenames.map((current,index) => {
-    const Component = dynamic(_ => import(`../markdown/teenused/kirjeldused/${current}.md`))
-    return (
-      <div key={index}>
-        <Component components={mdxComponents}/>
-      </div>
-    )
-  })
-)
+
+// This fails in production for some reason, but I can't debug it, so I'll just comment it out right now.
+// const components = (
+//   filenames.map((current,index) => {
+//     const Component = dynamic(_ => import(`../markdown/teenused/kirjeldused/${current}.md`))
+//     return (
+//       <div key={index}>
+//         <Component components={mdxComponents}/>
+//       </div>
+//     )
+//   })
+// )
 
 const Services = (props) => {
   return (
     <div>
       <h1>Teenuste kirjeldused & tingimused</h1>
-      {components}
+      <Smt />
+      <Set />
+      <Tut />
     </div>
   )
 }
