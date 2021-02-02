@@ -22,8 +22,10 @@ kasutada joobeseisundis isikutel. Tõendite puudumise või joobeseisundi korral 
 põrandaküttega soojustatud ruumidesse, kus on olemas eraldi duširuum ja WC. Ruumid mahutavad
 umbes 35 inimest.
 
+[Sisekorraeeskiri](/static/documents/tla-varjupaik-sisekorraeeskiri.docx)
+
 ### Päevakeskus
-Päevasel ajal (kl 8-16.45) on peavarjuta jäänud inimestel võimalik viibida päevakeskuses, kus neil on
+Päevasel ajal (kl 8-18:00) on peavarjuta jäänud inimestel võimalik viibida päevakeskuses, kus neil on
 võimalik kasutada duširuumi, kööki ja puhkeruumi. Samuti on tööpäevadel võimalik pöörduda
 sotsiaaltöötaja poole, kes nõustab sotsiaalsetel teemadel ja abistab ametlikes asjaajamistes.
 

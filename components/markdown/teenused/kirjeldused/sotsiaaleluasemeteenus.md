@@ -1,8 +1,8 @@
 ## Sotsiaaleluasemeteenus
 Sotsiaaleluasemeteenuse eesmärk on kindlustada eluruumi kasutamise võimalus isikule, kes ei suuda enda vajadustele vastavat eluruumi tagada.
+Sotsiaalmajutusteenust korraldab Tartu linna sotsiaalosakond ja pakub seda sotsiaalmaja Lubja 7 III ja IV korrusel, kus asub 36 ruumi.
 
-Varjupaik pakub Lubja 7 maja 3. ja 4. korrusel sotsiaaleluasemeteenust, kus asub
-36 eluruumi. Tegemist on ühiselamu tüüpi korteritega, kus ühiskasutatav WC,
+Tegemist on ühiselamu tüüpi korteritega, kus ühiskasutatav WC,
 duširuum ja köök asuvad koridoris.
 Korter on möbleerimata ning inimene peab ise mööbli kaasa tooma. Sotsiaaleluaseme
 eest tuleb tasuda igakuiselt vastavalt tarbitud teenuste mahu järgi.

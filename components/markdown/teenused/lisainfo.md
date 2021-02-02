@@ -1,7 +1,5 @@
 # Ööbimiskohtade lisainfo
-Ööbimiskohtadele on võimalik saada suvisel ajal vahemikus 19.00-23.00 ja talvisel ajal vahemikus 17.00-
-23.00. Hommikul tuleb ööbimiskohalt lahkuda kell 8.00 (v.a. nädalavahetustel), kust saab minna
-päevakeskusesse.
+Teenuse saajal on võimalik viibida päevakeskuse ruumides 1. aprillist kuni 30. septembrini kella 08:00-19:00. 1. oktoobrist - 31. märtsini on võimalik ruumides viibida 08:00-18:00.
 
 Päevasel ajal (kl 8-16.45) on peavarjuta jäänud inimestel võimalik viibida päevakeskuses, kus neil on
 võimalik kasutada duširuumi, kööki ja puhkeruumi. Samuti on tööpäevadel võimalik pöörduda
