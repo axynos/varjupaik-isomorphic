@@ -71,7 +71,7 @@ const Footer = (props) => {
       {/* (Copyright Symbol) (Current Year) | Varjupaik*/}
       <div>
         <p>{`\u00A9 ${new Date(Date.now()).getFullYear()} | Varjupaik`}</p>
-        <a href='https://axynos.design'>AXYNOS OÜ</a>
+        <a rel='nofollow' href='https://www.facebook.com/silverstenkruus/'>AXYNOS OÜ</a>
       </div>
       <style jsx>{styles}</style>
     </footer>

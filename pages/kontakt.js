@@ -18,8 +18,9 @@ export default () => (
           <h2>Üldmeil</h2>
             <p>{contactData.email}</p>
           <h2>Juhataja</h2>
-            <h3>Viktor Karhu</h3>
-              <p>{contactData.phones.director}</p>
+            {contactData.phones.director.map((item, index) =>
+              (<p key={index}>{item}</p>))
+            }
           <h2>Sotsiaaltöötajad</h2>
             {contactData.phones.socialWorkers.map((item, index) =>
               (<p key={index}>{item}</p>))

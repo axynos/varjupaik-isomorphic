@@ -34,3 +34,5 @@ build
 
 # ignore DS_Store files from macOS
 .DS_Store
+
+.vercel
