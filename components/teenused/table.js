@@ -18,6 +18,10 @@ export default () => (
           <td key={1}>Tugiisikuteenus</td>
           <td key={2}>Iseseisvat toimetulekut toetav teenus olukordades, kus isik vajab erinevate põhjuste tõttu olulisel määral kõrvalabi.</td>
         </tr>
+        <tr key={5}>
+          <td key={1}>Turvakoduteenus</td>
+          <td key={2}>Teenuse eesmärk on tagada esmane abi, ajutine eluase ja turvaline keskkond abivajavale täiskasvanule.</td>
+        </tr>
       </tbody>
     </table>
     <style jsx>{`

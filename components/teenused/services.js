@@ -10,6 +10,7 @@ import css from 'styled-jsx/css'
 import Smt from '../markdown/teenused/kirjeldused/sotsiaalmajutusteenus.md'
 import Set from '../markdown/teenused/kirjeldused/sotsiaaleluasemeteenus.md'
 import Tut from '../markdown/teenused/kirjeldused/tugiisikuteenus.md'
+import Tkt from '../markdown/teenused/kirjeldused/turvakoduteenus.md'
 
 const components = [Smt, Set, Tut]
 
@@ -53,6 +54,7 @@ const Services = (props) => {
       <Smt />
       <Set />
       <Tut />
+      <Tkt />
     </div>
   )
 }

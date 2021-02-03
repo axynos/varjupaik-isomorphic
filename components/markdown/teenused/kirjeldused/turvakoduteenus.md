@@ -1,0 +1,2 @@
+## Turvakoduteenus
+Alates 2020. a detsembrikuust pakub Varjupaik turvakoduteenust. Selleks on eraldatud 2 ühekohalist tuba.  Teenuse eesmärk on tagada esmane abi, ajutine eluase ja turvaline keskkond abivajavale täiskasvanule.  Teenust osutatakse isikule vältimatu abina olenemata rahvastikuregistrisse kantud elukohaandmetest kuni 3 kalendripäeva. Pikemalt kui 3 kalendripäeva on õigus osutada teenust isikule kooskõlastatult isiku elukohajärgse valla- või linnavalitsusega.
