@@ -1,6 +1,6 @@
 ## Sotsiaaleluasemeteenus
 Sotsiaaleluasemeteenuse eesmärk on kindlustada eluruumi kasutamise võimalus isikule, kes ei suuda enda vajadustele vastavat eluruumi tagada.
-Sotsiaalmajutusteenust korraldab Tartu linna sotsiaalosakond ja pakub seda sotsiaalmaja Lubja 7 III ja IV korrusel, kus asub 36 ruumi.
+Sotsiaaleluasemeteenust korraldab Tartu linna sotsiaalosakond ja pakub seda sotsiaalmaja Lubja 7 III ja IV korrusel, kus asub 36 ruumi.
 
 Tegemist on ühiselamu tüüpi korteritega, kus ühiskasutatav WC,
 duširuum ja köök asuvad koridoris.

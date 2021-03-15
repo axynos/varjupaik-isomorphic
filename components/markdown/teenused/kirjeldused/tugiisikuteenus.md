@@ -1,4 +1,4 @@
-## Tugiiskuteenus
+## Tugiisikuteenus
 Varjupaigas töötab kaks tugiisikut, kes osutavad Tartu linna abivajavatele
 isikutele ja peredele tugiisikuteenust.
 
